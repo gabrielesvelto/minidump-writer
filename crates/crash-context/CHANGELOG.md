@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- next-header -->
 ## [Unreleased] - ReleaseDate
+### Fixed
+- [PR#249](https://github.com/rust-minidump/minidump-writer/pull/249) fixed a shutdown crash on macOS.
+
 ## [0.8.0] - 2026-07-17
 ### Added
 - [PR#113](https://github.com/EmbarkStudios/crash-handling/pull/113) added support for loongarch64 `getcontext`.
